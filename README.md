@@ -1,5 +1,5 @@
 # Machine-Learning-Projects
-A collection of machine learning projects throughout my learning experience
+A collection of machine learning projects throughout my learning experience.
 
 Current collection so far: 
   1.  Stock Predictor -> Predicts the value of Google stock using an LSTM Model\
@@ -9,4 +9,4 @@ Current collection so far:
   3.  Image Captioning -> Captions images using a CNN-LSTM model\
       Dataset: https://www.kaggle.com/datasets/adityajn105/flickr30k
 
-Note: If you are trying to use the notebooks, please download the datasets from kaggle and change filepaths appropriately
+Note: If you are trying to use the notebooks, please download the datasets from kaggle and change filepaths appropriately.
