@@ -8,6 +8,8 @@ Current collection so far:
       Dataset: https://www.kaggle.com/datasets/murtozalikhon/brain-tumor-multimodal-image-ct-and-mri/data
   3.  Image Captioning -> Captions images using a CNN-LSTM model\
       Dataset: https://www.kaggle.com/datasets/adityajn105/flickr30k
-4. Chess Bot -> Includes a heuristic chess algorithm along with the necessary chess environment
+  4. Chess Bot -> Includes a heuristic chess algorithm along with the necessary chess environment
+  5. NLP Classifier -> Classifies text into english or not
+      Dataset: https://drive.google.com/drive/folders/1keaQxvqKUuDZoflNv29omKip_EEP-QaW?usp=sharing (work-around for github file limits)
 
-Note: If you are trying to use the notebooks, please download the datasets from kaggle and change filepaths appropriately if necessary.
+Note: If you are trying to use the notebooks, please download the datasets from kaggle or drive and change filepaths appropriately if necessary.
